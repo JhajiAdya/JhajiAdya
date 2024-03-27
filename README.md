@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adya.
 - 👀 I’m interested in Engineering.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on any js projects.
-- 📫 How to reach me - here
+- 💞️ I’m looking to collaborate on any JS projects.
+- 📫 How to reach me - here.
 - ⚡ Fun fact: Reality is an Illusion.
 
 <!---
